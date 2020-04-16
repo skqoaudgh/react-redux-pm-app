@@ -1,13 +1,15 @@
 import React from 'react';
-import { BroswerRouter } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
+
+import Navbar from './components/layout/Navbar';
 
 function App() {
   return (
-    <BroswerRouter>
+    <BrowserRouter>
       <div>
-        <h1>CadaPlan</h1>
+        <Navbar />
       </div>
-    </BroswerRouter>
+    </BrowserRouter>
   );
 }
 
