@@ -1,3 +1,5 @@
+Hosted by Firebase - https://pm-cadaplan.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
